@@ -37,7 +37,6 @@ reverse(){
 
 let ll = new LinkedList();
 
-//console.log(ll); // LinkedList { head: null, size: 0 }
 
 ll.insert(100);
 ll.insert(200);
